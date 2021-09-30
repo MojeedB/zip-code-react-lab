@@ -1,3 +1,30 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+.zip-search-field {
+  text-align: center;
+}
+
+.city-container {
+  width: auto;
+  height: auto;
+  border: 2px solid #e6e6e6;
+  border-radius: 2%;
+  box-sizing: border-box;
+  background-color: white;
+  margin: 15px 350px;
+  padding: 0px ;
+}
+
+.header {
+  background-color: #e6e6e6;
+  /* border-radius: 2% 0% 0% 2%; */
+  /* border: 2px solid blue; */
+  margin: 0px;
+  padding: 20px ;
+}
+
 .App-header {
   background-color: #222;
   padding: 20px;
